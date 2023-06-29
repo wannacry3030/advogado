@@ -90,6 +90,10 @@
   line-height: 1.5;
   margin-bottom: 4.8rem;
 }
+.hero-description span{
+  color: #DBC48E;
+font-weight: 700;
+}
 .hero-img {
   width: 100%;
 }
@@ -117,7 +121,7 @@
   font-weight: 600;
 }
 .delivered-text span {
-  color: #5d9aca;
+  color: #DBC48E;
   font-weight: 700;
 }
 
