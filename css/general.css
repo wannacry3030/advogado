@@ -180,7 +180,7 @@ body {
 .btn--full:link,
 .btn--full:visited {
   background-color: #dbc48e;
-  color: #fff;
+  color: #212529;
 }
 
 .btn--full:hover,
